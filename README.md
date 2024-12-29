@@ -1,0 +1,6 @@
+# 【双语言免费数据】全新UI/信管家源码/通达信配资/博易大师/外汇模拟/MT4外汇/交易
+
+PC端：example.com/pc<br>H5端：example.com/h5<br>账号：12345678 密码：12345678<br>后台：example.com/backend/<br>账号：admin 密码：plokij123（演示站密码不可修改）<br>更多详细信息可联系客服<br>客服QQ： 572399008<br>本店所售程序只供内部操盘训练，不得使用于非法用途，不得违反国家法律，不得进行违法行为，否则后果自负！购买以后用作他用附带的一切法律责任后果都由购买者承担于本店无任何关系！<br>前后端所有源码全开源！！前后端所有源码全开源！！前后端所有源码全开源！！<br>全新UI，中英双语言！持续更新！<br>首发新增免费数据源！免去每月高昂数据费用！有需要可联系客服单独对接！<br>最终效果以演示站为准<br>更换新版K线展示，新增空心蜡烛图<br>产品全新YII2框架开发，前端VUE，前后端全新优化<br>可完美运行，可封装apk、IOS包和电脑端EXE<br>包含完整的搭建安装教程文档、数据对接文档、打包APP/PC 端文档，图文并茂十分详细，有简单基础即可全程自行搭建，保姆级教程！！<br>项目环境要求：Linux，example.com+，example.com+，Redis<br>注意：本产品数据源为收费数据源,需要客户自行购买<br>源码具有可复制性，一经发货改不支持退货，源码与演示站完全相同，请耐心多测试下<br>源码全开源，请勿拿【从我这里出去的旧版】和部分开源的商家来比价<br>旧版本和不开源的这里可以比他们价格更低，但是没有意义<br>源码仅用于内部自己使用，禁止将该本系统源码服务搭建后投入任何形式的商业违法所有的犯罪的行为。<br>本商品并无特殊服务，如有客户违法犯罪行为，我店有权停止一切服务，必要时可提供证据至网安!<br>并且不在使用过程中的违法行为负责。特此声明!<br>违法犯罪毁三代，三思而后行！爱党爱国遵纪守法好公民，只接正规，违法违规勿扰谢谢！<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/TQ3Mw" style="color: red;">https://mega-file.org/TQ3Mw</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
